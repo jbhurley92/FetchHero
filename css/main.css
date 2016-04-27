@@ -1,0 +1,11 @@
+img {
+  width: 100px;
+  height: 100px;
+}
+li {
+  list-style: none;
+}
+#logo {
+  width: 500px;
+  height: auto;
+}
